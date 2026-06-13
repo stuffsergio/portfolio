@@ -10,8 +10,14 @@ function App() {
       </div>
       <div>
         <p>
-          I'm passionate about building the backend and frontend, to understand
-          how the product must be delivered to users
+          I build across the full stack — not to wear every hat, but to
+          understand how a product is actually experienced by the people using
+          it.
+        </p>
+        <p>
+          I care about craft, the kind of precision and taste that makes the
+          difference between something that works and something that feels
+          right.
         </p>
       </div>
     </div>
